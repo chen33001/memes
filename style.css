@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+  }
+
+.poster{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+#phone{
+    height: 800px;
+    width: 100%;
+    border: 5px solid white;
+  }
+
+#pc{
+    height: 500px;
+    width: 100%;
+    border: 5px solid white;
+  }
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin: 5px;
+  }
+
+p{
+    color: white;
+    text-align: center;
+    margin: 0;
+  }
+footer{
+    color: white;
+    text-align: center;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 0;
+  }
